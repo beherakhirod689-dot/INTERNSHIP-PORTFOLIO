@@ -1,6 +1,16 @@
 # Internship Portfolio
 
-Welcome to my internship portfolio! This repository showcases the projects I've worked on during my internship.
+**COMPANY**: CODTECH IT SOLUTIONS
+
+**NAME**: KHIROD KHAGESHWAR BEHERA
+
+**INTERN ID**: CTIS4005
+
+**DOMAIN**: FULL STACK WEB DEVELOPMENT
+
+**DURATION**: 4 WEEKS
+
+**MENTOR**: NEELA SANTOSH KUMAR
 
 ## 📁 Projects
 
