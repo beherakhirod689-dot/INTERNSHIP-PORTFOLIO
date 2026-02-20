@@ -15,8 +15,8 @@
 ## 📁 Projects
 
 1. **[API Integration](./1-API-INTEGRATION/)** - API integration project demonstrating best practices
-2. **[Real-Time Collaborative Document Editor](./2-REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR/)** - Real-time collaborative editing system
-3. **[Chat Application](./3-CHAT-APPLICATION/)** - Modern real-time chat application
+2. **[Chat Application](./3-CHAT-APPLICATION/)** - Modern real-time chat application
+3. **[Real-Time Collaborative Document Editor](./2-REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR/)** - Real-time collaborative editing system
 4. **[Chrome Extension for Time Tracking and Productivity Analytics](./4-CHROME-EXTENSION-FOR-TIME-TRACKING-AND-PRODUCTIVITY-ANALYTICS/)** - Browser extension for productivity tracking
 
 ## 📚 Documentation
