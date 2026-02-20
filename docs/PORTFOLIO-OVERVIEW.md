@@ -16,19 +16,7 @@ A project demonstrating API integration capabilities and best practices. This pr
 
 ---
 
-### 2. Real-Time Collaborative Document Editor
-**Repository:** [REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR](https://github.com/beherakhirod689-dot/REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR)
-
-A real-time collaborative document editing system that allows multiple users to edit documents simultaneously.
-
-**Key Features:**
-- Real-time synchronization
-- Collaborative editing
-- Document management
-
----
-
-### 3. Chat Application
+### 2. Chat Application
 **Repository:** [CHAT-APPLICATION](https://github.com/beherakhirod689-dot/CHAT-APPLICATION)
 
 A modern real-time chat application with various features for communication.
@@ -37,6 +25,18 @@ A modern real-time chat application with various features for communication.
 - Real-time messaging
 - User management
 - Modern UI/UX
+
+---
+
+### 3. Real-Time Collaborative Document Editor
+**Repository:** [REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR](https://github.com/beherakhirod689-dot/REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR)
+
+A real-time collaborative document editing system that allows multiple users to edit documents simultaneously.
+
+**Key Features:**
+- Real-time synchronization
+- Collaborative editing
+- Document management
 
 ---
 
